@@ -1,5 +1,5 @@
 # Файлы и папки операционной системы
-.build
+/build
 .DS_Store
 Thumbs.db
 
